@@ -1,0 +1,12 @@
+.new-expenses {
+  display: flex;
+  width: 90%;
+  margin: auto;
+  padding: 10px;
+  background-color: darkslategrey;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  min-height: 25vh;
+  margin-bottom: 20px;
+}
